@@ -1,10 +1,10 @@
 {
   "user": [
-    { "id": 1, "firstName": "Rachel", "LastName": "Green" },
-    { "id": 2, "firstName": "Monica", "LastName": "Geller" },
-    { "id": 3, "firstName": "Phoebe", "LastName": "Buffay" },
-    { "id": 4, "firstName": "Joey", "LastName": "Tribbiani" },
-    { "id": 5, "firstName": "Chandler", "LastName": "Bing" },
-    { "id": 6, "firstName": "Ross", "LastName": "Geller" }
+    { "id": 1, "firstName": "Rachel", "lastName": "Green" },
+    { "id": 2, "firstName": "Monica", "lastName": "Geller" },
+    { "id": 3, "firstName": "Phoebe", "lastName": "Buffay" },
+    { "id": 4, "firstName": "Joey", "lastName": "Tribbiani" },
+    { "id": 5, "firstName": "Chandler", "lastName": "Bing" },
+    { "id": 6, "firstName": "Ross", "lastName": "Geller" }
   ]
 }
