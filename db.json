@@ -2,6 +2,6 @@
   "passPolicy": [
     { "id": 1, "name": "Pass Pol 1", "length": 10, "upperLetters": false, "lowerLetters": false, "numbers": false, "symbols": false, "similar": false, "score" : 30 },
     { "id": 2, "name": "Pass Pol 2", "length": 20, "upperLetters": true, "lowerLetters": false, "numbers": true, "symbols": false, "similar": false, "score" : 50 },
-    { "id": 3, "name": "Pass Pol 3", "length": 50, "upperLetters": true, "lowerLetters": true, "numbers": true, "symbols": true, "similar": false, "score" : 80 },
+    { "id": 3, "name": "Pass Pol 3", "length": 50, "upperLetters": true, "lowerLetters": true, "numbers": true, "symbols": true, "similar": false, "score" : 80 }
   ]
 }
